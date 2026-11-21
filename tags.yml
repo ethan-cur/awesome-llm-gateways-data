@@ -1,0 +1,98 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: load-balancing
+  name: "Load Balancing"
+- id: freemium
+  name: "Freemium"
+- id: managed
+  name: "Managed"
+- id: observability
+  name: "Observability"
+- id: guardrails
+  name: "Guardrails"
+- id: model-marketplace
+  name: "Model Marketplace"
+- id: cost-transparency
+  name: "Cost Transparency"
+- id: prompt-management
+  name: "Prompt Management"
+- id: enterprise
+  name: "Enterprise"
+- id: governance
+  name: "Governance"
+- id: edge-computing
+  name: "Edge Computing"
+- id: caching
+  name: "Caching"
+- id: free
+  name: "Free"
+- id: frontend-integration
+  name: "Frontend Integration"
+- id: control-plane
+  name: "Control Plane"
+- id: optimization
+  name: "Optimization"
+- id: typescript
+  name: "TypeScript"
+- id: cost-optimization
+  name: "Cost Optimization"
+- id: kubernetes
+  name: "Kubernetes"
+- id: envoy-proxy
+  name: "Envoy Proxy"
+- id: intelligent-routing
+  name: "Intelligent Routing"
+- id: model-selection
+  name: "Model Selection"
+- id: dynamic-routing
+  name: "Dynamic Routing"
+- id: model-understanding
+  name: "Model Understanding"
+- id: fallbacks
+  name: "Fallbacks"
+- id: mlops
+  name: "MLOps"
+- id: open-models
+  name: "Open Models"
+- id: fine-tuning
+  name: "Fine-tuning"
+- id: dedicated-endpoints
+  name: "Dedicated Endpoints"
+- id: compound-ai
+  name: "Compound AI"
+- id: function-calling
+  name: "Function Calling"
+- id: low-latency
+  name: "Low Latency"
+- id: autoscaling
+  name: "Autoscaling"
+- id: truss
+  name: "Truss"
+- id: cold-start-optimization
+  name: "Cold Start Optimization"
+- id: per-second-billing
+  name: "Per-Second Billing"
+- id: model-hub-integration
+  name: "Model Hub Integration"
+- id: agents
+  name: "Agents"
+- id: knowledge-bases
+  name: "Knowledge Bases"
+- id: plugin-architecture
+  name: "Plugin Architecture"
+- id: high-performance
+  name: "High Performance"
+- id: envoy-based
+  name: "Envoy-Based"
+- id: edge-native
+  name: "Edge Native"
+- id: programmable
+  name: "Programmable"

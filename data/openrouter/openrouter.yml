@@ -1,0 +1,13 @@
+name: "OpenRouter"
+description: "OpenRouter is a model router offering a unified API to access hundreds of open and closed-source LLMs with automatic failover, caching, and per-model pricing transparency. It serves developers and applications needing model diversity without managing multiple provider accounts."
+source_url: "https://openrouter.ai/"
+category: "Model Routers"
+tags:
+  - "freemium"
+  - "api"
+  - "ai-powered"
+  - "model-marketplace"
+  - "cost-transparency"
+icon_url: "https://icons.duckduckgo.com/ip3/openrouter.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://openrouter.ai/>\n"
+updated_at: "2026-11-21 01:02"

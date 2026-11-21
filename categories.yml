@@ -1,0 +1,12 @@
+- id: open-source-gateways
+  name: "Open-Source Gateways"
+- id: managed-gateways
+  name: "Managed Gateways"
+- id: model-routers
+  name: "Model Routers"
+- id: edge-ai-gateways
+  name: "Edge AI Gateways"
+- id: observability-first-gateways
+  name: "Observability-First Gateways"
+- id: mcp-gateways
+  name: "MCP Gateways"
