@@ -5,16 +5,26 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome LLM Gateways
-initial_prompt: "A curated directory of LLM gateways, routers and proxies that
-  put many models behind one API, with routing, caching, fallbacks and cost
-  controls. Include products such as LiteLLM, Portkey, OpenRouter, Helicone,
-  Kong AI Gateway, Cloudflare AI Gateway, Vercel AI Gateway, TensorZero,
-  Bifrost, Envoy AI Gateway, Not Diamond, Martian, plus other notable commercial
-  and open-source options. Categories: Open-Source Gateways, Managed Gateways,
-  Model Routers, Edge AI Gateways, Observability-First Gateways, MCP Gateways.
-  For every item capture the official website, a short factual description,
-  pricing model (free, freemium, paid, open source), deployment (cloud or
-  self-hosted), key features and integrations."
+initial_prompt: |-
+  A curated directory of LLM gateways, routers and proxies that put many models behind one API, with routing, caching, fallbacks and cost controls. Include products such as LiteLLM, Portkey, OpenRouter, Helicone, Kong AI Gateway, Cloudflare AI Gateway, Vercel AI Gateway, TensorZero, Bifrost, Envoy AI Gateway, Not Diamond, Martian, plus other notable commercial and open-source options. Categories: Open-Source Gateways, Managed Gateways, Model Routers, Edge AI Gateways, Observability-First Gateways, MCP Gateways. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: Open-Source Gateways; Managed Gateways; Model Routers; Edge AI Gateways; Observability-First Gateways; MCP Gateways.
+  Target keywords: llm gateway, ai gateway, llm router, llm proxy, openai compatible api.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md
+  - https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md
+  - https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md
+  - https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md
+  - https://github.com/topics/llm-gateway
+  - https://github.com/topics/ai-gateway
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-llm-gateways-website
 company_website: https://llm-gateways.ever.works
 settings:
@@ -32,8 +42,63 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome LLM Gateways
+    prompt: |-
+      A curated directory of LLM gateways, routers and proxies that put many models behind one API, with routing, caching, fallbacks and cost controls. Include products such as LiteLLM, Portkey, OpenRouter, Helicone, Kong AI Gateway, Cloudflare AI Gateway, Vercel AI Gateway, TensorZero, Bifrost, Envoy AI Gateway, Not Diamond, Martian, plus other notable commercial and open-source options. Categories: Open-Source Gateways, Managed Gateways, Model Routers, Edge AI Gateways, Observability-First Gateways, MCP Gateways. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: Open-Source Gateways; Managed Gateways; Model Routers; Edge AI Gateways; Observability-First Gateways; MCP Gateways.
+      Target keywords: llm gateway, ai gateway, llm router, llm proxy, openai compatible api.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md
+      - https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md
+      - https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md
+      - https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md
+      - https://github.com/topics/llm-gateway
+      - https://github.com/topics/ai-gateway
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of LLM gateways, routers and proxies that put many models behind one API, with routing, caching, fallbacks and cost controls. Include products such as LiteLLM, Portkey, OpenRouter, Helicone, Kong AI Gateway, Cloudflare AI Gateway, Vercel AI Gateway, TensorZero, Bifrost, Envoy AI Gateway, Not Diamond, Martian, plus other notable commercial and open-source options. Categories: Open-Source Gateways, Managed Gateways, Model Routers, Edge AI Gateways, Observability-First Gateways, MCP Gateways. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: Open-Source Gateways; Managed Gateways; Model Routers; Edge AI Gateways; Observability-First Gateways; MCP Gateways.
+    Target keywords: llm gateway, ai gateway, llm router, llm proxy, openai compatible api.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md
+    - https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md
+    - https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md
+    - https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md
+    - https://github.com/topics/llm-gateway
+    - https://github.com/topics/ai-gateway
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free

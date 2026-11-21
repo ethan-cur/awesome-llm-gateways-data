@@ -1,98 +1,442 @@
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: api
-  name: "API"
+  name: API
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: load-balancing
-  name: "Load Balancing"
+  name: Load Balancing
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: managed
-  name: "Managed"
+  name: Managed
 - id: observability
-  name: "Observability"
+  name: Observability
 - id: guardrails
-  name: "Guardrails"
+  name: Guardrails
 - id: model-marketplace
-  name: "Model Marketplace"
+  name: Model Marketplace
 - id: cost-transparency
-  name: "Cost Transparency"
+  name: Cost Transparency
 - id: prompt-management
-  name: "Prompt Management"
+  name: Prompt Management
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: governance
-  name: "Governance"
+  name: Governance
 - id: edge-computing
-  name: "Edge Computing"
+  name: Edge Computing
 - id: caching
-  name: "Caching"
+  name: Caching
 - id: free
-  name: "Free"
+  name: Free
 - id: frontend-integration
-  name: "Frontend Integration"
+  name: Frontend Integration
 - id: control-plane
-  name: "Control Plane"
+  name: Control Plane
 - id: optimization
-  name: "Optimization"
+  name: Optimization
 - id: typescript
-  name: "TypeScript"
+  name: Typescript
 - id: cost-optimization
-  name: "Cost Optimization"
+  name: Cost Optimization
 - id: kubernetes
-  name: "Kubernetes"
+  name: Kubernetes
 - id: envoy-proxy
-  name: "Envoy Proxy"
+  name: Envoy Proxy
 - id: intelligent-routing
-  name: "Intelligent Routing"
+  name: Intelligent Routing
 - id: model-selection
-  name: "Model Selection"
+  name: Model Selection
 - id: dynamic-routing
-  name: "Dynamic Routing"
+  name: Dynamic Routing
 - id: model-understanding
-  name: "Model Understanding"
+  name: Model Understanding
 - id: fallbacks
-  name: "Fallbacks"
+  name: Fallbacks
 - id: mlops
-  name: "MLOps"
+  name: Mlops
 - id: open-models
-  name: "Open Models"
+  name: Open Models
 - id: fine-tuning
-  name: "Fine-tuning"
+  name: Fine-tuning
 - id: dedicated-endpoints
-  name: "Dedicated Endpoints"
+  name: Dedicated Endpoints
 - id: compound-ai
-  name: "Compound AI"
+  name: Compound AI
 - id: function-calling
-  name: "Function Calling"
+  name: Function Calling
 - id: low-latency
-  name: "Low Latency"
+  name: Low Latency
 - id: autoscaling
-  name: "Autoscaling"
+  name: Autoscaling
 - id: truss
-  name: "Truss"
+  name: Truss
 - id: cold-start-optimization
-  name: "Cold Start Optimization"
+  name: Cold Start Optimization
 - id: per-second-billing
-  name: "Per-Second Billing"
+  name: Per-Second Billing
 - id: model-hub-integration
-  name: "Model Hub Integration"
+  name: Model Hub Integration
 - id: agents
-  name: "Agents"
+  name: Agents
 - id: knowledge-bases
-  name: "Knowledge Bases"
+  name: Knowledge Bases
 - id: plugin-architecture
-  name: "Plugin Architecture"
+  name: Plugin Architecture
 - id: high-performance
-  name: "High Performance"
+  name: High Performance
 - id: envoy-based
-  name: "Envoy-Based"
+  name: Envoy-Based
 - id: edge-native
-  name: "Edge Native"
+  name: Edge Native
 - id: programmable
-  name: "Programmable"
+  name: Programmable
+- id: envoy
+  name: Envoy
+- id: openai-compatible
+  name: Openai Compatible
+- id: mcp
+  name: Mcp
+- id: apache-20
+  name: Apache 2.0
+- id: rust
+  name: Rust
+- id: linux-foundation
+  name: Linux Foundation
+- id: a2a
+  name: A2a
+- id: proprietary
+  name: Proprietary
+- id: mcp-gateway
+  name: Mcp Gateway
+- id: spending-limits
+  name: Spending Limits
+- id: tool-gateway
+  name: Tool Gateway
+- id: paid
+  name: Paid
+- id: llm-inference
+  name: Llm Inference
+- id: disaggregated-serving
+  name: Disaggregated Serving
+- id: model-aggregator
+  name: Model Aggregator
+- id: cloud-hosted
+  name: Cloud Hosted
+- id: aws
+  name: Aws
+- id: bedrock
+  name: Bedrock
+- id: mcp-tools
+  name: Mcp Tools
+- id: prompt-routing
+  name: Prompt Routing
+- id: free-tier
+  name: Free Tier
+- id: per-token-billing
+  name: Per Token Billing
+- id: provider-failover
+  name: Provider Failover
+- id: google-cloud
+  name: Google Cloud
+- id: api-management
+  name: Api Management
+- id: multi-cloud
+  name: Multi Cloud
+- id: go
+  name: Go
+- id: api-developer-portal
+  name: Api Developer Portal
+- id: prompt-to-api
+  name: Prompt To Api
+- id: agpl-30
+  name: Agpl 3.0
+- id: a2a-gateway
+  name: A2a Gateway
+- id: oauth
+  name: Oauth
+- id: cloud-native
+  name: Cloud Native
+- id: azure
+  name: Azure
+- id: semantic-caching
+  name: Semantic Caching
+- id: circuit-breakers
+  name: Circuit Breakers
+- id: prepaid
+  name: Prepaid
+- id: spending-budgets
+  name: Spending Budgets
+- id: ip-allowlists
+  name: Ip Allowlists
+- id: model-router
+  name: Model Router
+- id: claude-code
+  name: Claude Code
+- id: coding-assistant
+  name: Coding Assistant
+- id: per-key-rate-limits
+  name: Per Key Rate Limits
+- id: image-speech-video
+  name: Image Speech Video
+- id: coding-agents
+  name: Coding Agents
+- id: discounted-credits
+  name: Discounted Credits
+- id: data-platform
+  name: Data Platform
+- id: databricks
+  name: Databricks
+- id: unity-catalog
+  name: Unity Catalog
+- id: usage-monitoring
+  name: Usage Monitoring
+- id: mit
+  name: Mit
+- id: docker
+  name: Docker
+- id: mcp-toolkit
+  name: Mcp Toolkit
+- id: token-cost-logging
+  name: Token Cost Logging
+- id: m-pesa
+  name: M Pesa
+- id: 1m-context-window
+  name: 1m Context Window
+- id: gateway-api
+  name: Gateway Api
+- id: anthropic-compatible
+  name: Anthropic Compatible
+- id: gemini
+  name: Gemini
+- id: mtls
+  name: Mtls
+- id: mcp-security
+  name: Mcp Security
+- id: china-ecosystem
+  name: China Ecosystem
+- id: gpu-management
+  name: Gpu Management
+- id: llm-serving
+  name: Llm Serving
+- id: speakeasy
+  name: Speakeasy
+- id: ai-control-plane
+  name: Ai Control Plane
+- id: image-video-speech
+  name: Image Video Speech
+- id: ibm
+  name: Ibm
+- id: context-sharing
+  name: Context Sharing
+- id: server-sent-events
+  name: Server Sent Events
+- id: 320-models
+  name: 320 Models
+- id: api-gateway
+  name: Api Gateway
+- id: serverless-inference
+  name: Serverless Inference
+- id: model-serving
+  name: Model Serving
+- id: istio
+  name: Istio
+- id: per-key-reporting
+  name: Per Key Reporting
+- id: distributed-inference
+  name: Distributed Inference
+- id: dashboard
+  name: Dashboard
+- id: cost-tracking
+  name: Cost Tracking
+- id: provider-fallback
+  name: Provider Fallback
+- id: cost-cap
+  name: Cost Cap
+- id: agent
+  name: Agent
+- id: api-governance
+  name: Api Governance
+- id: security
+  name: Security
+- id: dlp-redaction
+  name: Dlp Redaction
+- id: sandbox
+  name: Sandbox
+- id: audit-ledger
+  name: Audit Ledger
+- id: python
+  name: Python
+- id: mcp-federation
+  name: Mcp Federation
+- id: mcp-registry
+  name: Mcp Registry
+- id: discovery
+  name: Discovery
+- id: mpl-20
+  name: Mpl 2.0
+- id: access-control
+  name: Access Control
+- id: agent-orchestration
+  name: Agent Orchestration
+- id: model-context-protocol
+  name: Model Context Protocol
+- id: foundry
+  name: Foundry
+- id: real-time-routing
+  name: Real Time Routing
+- id: csharp
+  name: Csharp
+- id: reverse-proxy
+  name: Reverse Proxy
+- id: llm-gateway
+  name: Llm Gateway
+- id: role-based-access
+  name: Role Based Access
+- id: salesforce
+  name: Salesforce
+- id: mulesoft
+  name: Mulesoft
+- id: agent-governance
+  name: Agent Governance
+- id: netlify
+  name: Netlify
+- id: no-api-keys
+  name: No Api Keys
+- id: developer-platform
+  name: Developer Platform
+- id: quality-scoring
+  name: Quality Scoring
+- id: live-price
+  name: Live Price
+- id: speed-scoring
+  name: Speed Scoring
+- id: nvidia
+  name: Nvidia
+- id: nim
+  name: Nim
+- id: ai-governance
+  name: Ai Governance
+- id: isolated-hosting
+  name: Isolated Hosting
+- id: eu-hosted
+  name: Eu Hosted
+- id: iso-27001
+  name: Iso 27001
+- id: zero-data-retention
+  name: Zero Data Retention
+- id: spend-limits
+  name: Spend Limits
+- id: mozilla-ai
+  name: Mozilla Ai
+- id: virtual-keys
+  name: Virtual Keys
+- id: anthropic
+  name: Anthropic
+- id: openai
+  name: Openai
+- id: published-rates
+  name: Published Rates
+- id: usd-credit-balance
+  name: Usd Credit Balance
+- id: gemini-native
+  name: Gemini Native
+- id: grok
+  name: Grok
+- id: routing
+  name: Routing
+- id: zero-trust
+  name: Zero Trust
+- id: identity-aware
+  name: Identity Aware
+- id: eu-infrastructure
+  name: Eu Infrastructure
+- id: prepaid-credits
+  name: Prepaid Credits
+- id: no-data-storage
+  name: No Data Storage
+- id: open-weight-models
+  name: Open Weight Models
+- id: eu-data-residency
+  name: Eu Data Residency
+- id: failover
+  name: Failover
+- id: tracing
+  name: Tracing
+- id: analytics
+  name: Analytics
+- id: llm-monitoring
+  name: Llm Monitoring
+- id: research
+  name: Research
+- id: mcp-and-llm
+  name: Mcp And Llm
+- id: free-agents
+  name: Free Agents
+- id: sandboxes
+  name: Sandboxes
+- id: 2000-models
+  name: 2000 Models
+- id: spend-caps
+  name: Spend Caps
+- id: request-logs
+  name: Request Logs
+- id: per-key-budgets
+  name: Per Key Budgets
+- id: failover-before-first-token
+  name: Failover Before First Token
+- id: vllm
+  name: Vllm
+- id: tensorrt-llm
+  name: Tensorrt Llm
+- id: sglang
+  name: Sglang
+- id: prepaid-usd
+  name: Prepaid Usd
+- id: api-key-budgets
+  name: Api Key Budgets
+- id: chinese-models
+  name: Chinese Models
+- id: streaming
+  name: Streaming
+- id: centralized-key-storage
+  name: Centralized Key Storage
+- id: iam-integration
+  name: Iam Integration
+- id: monthly-plans
+  name: Monthly Plans
+- id: compute-budget
+  name: Compute Budget
+- id: http-402
+  name: Http 402
+- id: per-request-logging
+  name: Per Request Logging
+- id: isolated-containers
+  name: Isolated Containers
+- id: opentelemetry
+  name: Opentelemetry
+- id: traefik
+  name: Traefik
+- id: middleware
+  name: Middleware
+- id: chat-completion
+  name: Chat Completion
+- id: per-key-spend-limits
+  name: Per Key Spend Limits
+- id: per-minute-rate-limits
+  name: Per Minute Rate Limits
+- id: prepaid-balance
+  name: Prepaid Balance
+- id: lightweight
+  name: Lightweight
+- id: configuration-only
+  name: Configuration Only
+- id: pay-as-you-go
+  name: Pay As You Go
+- id: policy-driven
+  name: Policy Driven

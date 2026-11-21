@@ -1,12 +1,49 @@
 - id: open-source-gateways
-  name: "Open-Source Gateways"
+  name: Open Source Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: managed-gateways
-  name: "Managed Gateways"
+  name: Managed Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polygon points="12 2 20 7 20 17 12 22 4 17 4
+    7"/><polyline points="7 12 11 16 17 10"/></svg>
 - id: model-routers
-  name: "Model Routers"
+  name: Model Routers
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="6" y="10" width="12" height="10"
+    rx="1"/><line x1="8" y1="10" x2="8" y2="6"/><line x1="16" y1="10" x2="16"
+    y2="6"/><path d="M7 15 Q12 11 17 15"/></svg>
 - id: edge-ai-gateways
-  name: "Edge AI Gateways"
+  name: Edge AI Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526
+    5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1
+    5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12
+    18Z"/></svg>
 - id: observability-first-gateways
-  name: "Observability-First Gateways"
+  name: Observability First Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35
+    8.36a.5.5 0 0 1-.96 0L9.68 3.18a.5.5 0 0 0-.96 0l-2.35 8.36A2 2 0 0 1 4.44
+    13H2"/></svg>
 - id: mcp-gateways
-  name: "MCP Gateways"
+  name: MCP Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="9" y="8" width="6" height="8"/><line x1="5"
+    y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/><circle
+    cx="5" cy="12" r="1"/><circle cx="21" cy="12" r="1"/></svg>
+- id: cloud-and-platform-ai-gateways
+  name: Cloud And Platform AI Gateways
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526
+    5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1
+    5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12
+    18Z"/></svg>

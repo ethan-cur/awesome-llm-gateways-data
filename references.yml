@@ -1,12 +1,77 @@
-- url: "https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md"
-  title: "GitHub list — cuihuan/awesome-ai-gateway (157★)"
-- url: "https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md"
-  title: "GitHub list — ai-gateways/awesome-ai-gateways (46★)"
-- url: "https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md"
-  title: "GitHub list — howardpen9/awesome-ai-api-proxy (108★)"
-- url: "https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md"
-  title: "GitHub list — apimart001a/llm-gateway-comparison (155★)"
-- url: "https://github.com/topics/llm-gateway"
-  title: "GitHub topic — `llm-gateway` (1,853 repos)"
-- url: "https://github.com/topics/ai-gateway"
-  title: "GitHub topic — `ai-gateway` (3,196 repos)"
+- url: https://github.com/BerriAI/litellm
+  normalized_url: https://github.com/BerriAI/litellm
+  first_seen_at: 2026-11-21T03:16:21.064Z
+  last_attempted_at: 2026-11-21T03:16:21.064Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/BerriAI/litellm"
+- url: https://github.com/Portkey-AI/gateway
+  normalized_url: https://github.com/Portkey-AI/gateway
+  first_seen_at: 2026-11-21T03:17:47.738Z
+  last_attempted_at: 2026-11-21T03:17:47.738Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/Portkey-AI/gateway"
+- url: https://github.com/topics/ai-gateway
+  title: GitHub topic — `ai-gateway` (3,196 repos)
+  normalized_url: https://github.com/topics/ai-gateway
+- url: https://github.com/topics/llm-gateway
+  title: GitHub topic — `llm-gateway` (1,853 repos)
+  normalized_url: https://github.com/topics/llm-gateway
+- url: https://portkey.ai
+  normalized_url: https://portkey.ai/
+  first_seen_at: 2026-11-21T03:16:54.717Z
+  last_attempted_at: 2026-11-21T03:16:54.717Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://portkey.ai"
+- url: https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/ai-gateways/awesome-ai-gateways/HEAD/README.md
+  first_seen_at: 2026-11-21T03:10:13.564Z
+  last_attempted_at: 2026-11-21T03:10:13.564Z
+  last_success_at: 2026-11-21T03:10:13.564Z
+  status: success
+  items_created: 66
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/README.md
+  first_seen_at: 2026-11-21T03:15:20.869Z
+  last_attempted_at: 2026-11-21T03:15:20.869Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/apimart001a/llm-gateway-comparison/HEAD/R\
+    EADME.md"
+- url: https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/cuihuan/awesome-ai-gateway/HEAD/README.md
+  first_seen_at: 2026-11-21T03:04:01.337Z
+  last_attempted_at: 2026-11-21T03:04:01.337Z
+  last_success_at: 2026-11-21T03:04:01.337Z
+  status: success
+  items_created: 27
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/howardpen9/awesome-ai-api-proxy/HEAD/README.md
+  first_seen_at: 2026-11-21T03:14:54.988Z
+  last_attempted_at: 2026-11-21T03:14:54.988Z
+  last_success_at: 2026-11-21T03:14:54.988Z
+  status: success
+  items_created: 28
+  pipeline: agent-pipeline
+- url: https://www.litellm.ai
+  normalized_url: https://www.litellm.ai/
+  first_seen_at: 2026-11-21T03:15:45.518Z
+  last_attempted_at: 2026-11-21T03:15:45.518Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.litellm.ai"
