@@ -1,0 +1,50 @@
+name: AllRouter
+description: An aggregator-type OpenAI and Anthropic-compatible aggregator
+  accepting Alipay and WeChat payment. Operator-claimed Kimi K3 at official
+  Moonshot list price.
+source_url: https://allrouter.ai
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AllRouter is an aggregator-type OpenAI and Anthropic-compatible aggregator.
+
+
+  ## Features
+
+
+  - Aggregator-type gateway
+
+  - OpenAI and Anthropic-compatible
+
+  - Alipay and WeChat payment accepted
+
+  - Operator-claimed Kimi K3 at official Moonshot list price
+
+
+  ## Pricing
+
+
+  Paid service with Alipay/WeChat payment. Prices change frequently; verify
+  on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted aggregator service.
+
+
+  ## Trust Notes
+
+
+  Operator-claimed pricing; verify on-site.
+brand: AllRouter
+images: []
+updated_at: 2026-11-21 03:19

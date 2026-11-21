@@ -1,0 +1,48 @@
+name: Atlas Cloud
+description: A multi-modal aggregator focused on image and video generation
+  models (Grok Imagine, Kling, ByteDance, Vidu). Provides public
+  OpenAI-compatible /v1/models endpoint exposing per-token pricing including
+  cache-read. Card payment accepted.
+source_url: https://www.atlascloud.ai
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >
+  ## Overview
+
+
+  Atlas Cloud is a multi-modal aggregator focused on image and video heavy
+  models including Grok Imagine, Kling, ByteDance, and Vidu.
+
+
+  ## Features
+
+
+  - Multi-modal aggregator
+
+  - Image/video heavy models (Grok Imagine, Kling, ByteDance, Vidu)
+
+  - Public OpenAI-compatible /v1/models endpoint
+
+  - Exposes per-token pricing including cache-read
+
+  - Card payment accepted
+
+
+  ## Pricing
+
+
+  Paid service with card payment. Per-token pricing including cache-read exposed
+  via /v1/models.
+
+
+  ## Deployment
+
+
+  Cloud-hosted aggregator service.
+brand: Atlas Cloud
+images: []
+updated_at: 2026-11-21 03:19

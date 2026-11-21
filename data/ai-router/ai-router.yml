@@ -1,0 +1,52 @@
+name: AI Router
+description: A mixed-type OpenAI-compatible ChatGPT API relay at
+  api.ai-router.dev/v1 with dashboard API keys, usage tracking, daily/weekly
+  packages, and localized English/Chinese/Russian/Persian pages. Supports Card,
+  Crypto, Alipay, and WeChat payment.
+source_url: https://ai-router.dev
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >
+  ## Overview
+
+
+  AI Router is a mixed-type OpenAI-compatible ChatGPT API relay serving multiple
+  regions with localized pages.
+
+
+  ## Features
+
+
+  - Mixed-type relay station
+
+  - OpenAI-compatible ChatGPT API relay at api.ai-router.dev/v1
+
+  - Dashboard API keys
+
+  - Usage tracking
+
+  - Daily/weekly packages
+
+  - Localized English/Chinese/Russian/Persian pages
+
+  - Card, Crypto, Alipay, and WeChat payment accepted
+
+
+  ## Pricing
+
+
+  Paid service with daily/weekly packages. Prices change frequently; verify
+  on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted relay service.
+brand: AI Router
+images: []
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,49 @@
+name: Runlayer
+description: AI control plane that routes MCP and LLM calls through one gateway
+  and discovers agent, MCP, and skill activity across endpoints and clients.
+  Proprietary commercial product.
+source_url: https://www.runlayer.com
+category: MCP Gateways
+tags:
+  - managed
+  - proprietary
+  - ai-control-plane
+  - discovery
+  - mcp-and-llm
+markdown: >-
+  ## Overview
+
+
+  Runlayer is an AI control plane that routes MCP and LLM calls through one
+  gateway and discovers agent, MCP, and skill activity across endpoints and
+  clients.
+
+
+  ## Features
+
+
+  - Routes MCP and LLM calls through one gateway
+
+  - Discovers agent, MCP, and skill activity across endpoints and clients
+
+  - AI control plane
+
+
+  ## Pricing Model
+
+
+  Commercial pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.runlayer.com
+brand: Runlayer
+updated_at: 2026-11-21 03:19

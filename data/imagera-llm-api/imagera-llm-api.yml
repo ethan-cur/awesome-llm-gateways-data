@@ -1,0 +1,53 @@
+name: Imagera LLM API
+description: Hosted OpenAI-compatible API that serves 320+ language models from
+  48 labs with one API key, streams responses as server-sent events, and bills
+  per token from the account's Imagera balance. Proprietary commercial product.
+source_url: https://imagera.ai/llm-api
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - per-token-billing
+  - server-sent-events
+  - 320-models
+markdown: >-
+  ## Overview
+
+
+  Imagera LLM API is a hosted OpenAI-compatible API that serves 320+ language
+  models from 48 labs with one API key. It streams responses as server-sent
+  events and bills per token from the account's Imagera balance.
+
+
+  ## Features
+
+
+  - 320+ language models from 48 labs
+
+  - One API key
+
+  - OpenAI-compatible API
+
+  - Server-sent events streaming
+
+  - Per-token billing from Imagera balance
+
+
+  ## Pricing Model
+
+
+  Per-token billing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://imagera.ai/llm-api
+brand: Imagera
+updated_at: 2026-11-21 03:19

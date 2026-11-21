@@ -1,0 +1,45 @@
+name: RouteScope
+description: An aggregator-type unified gateway mapping 100+ models to
+  OpenAI/Claude/Gemini-compatible APIs. Offers pay-as-you-go credits. Card and
+  Crypto payment accepted.
+source_url: https://www.routescope.ai
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >
+  ## Overview
+
+
+  RouteScope is an aggregator-type unified gateway mapping 100+ models to
+  OpenAI/Claude/Gemini-compatible APIs.
+
+
+  ## Features
+
+
+  - Aggregator-type gateway
+
+  - Maps 100+ models to OpenAI/Claude/Gemini-compatible APIs
+
+  - Pay-as-you-go credits
+
+  - Card and Crypto payment accepted
+
+
+  ## Pricing
+
+
+  Paid service with pay-as-you-go credits. Prices change frequently; verify
+  on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted aggregator service.
+brand: RouteScope
+images: []
+updated_at: 2026-11-21 03:19

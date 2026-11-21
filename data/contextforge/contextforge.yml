@@ -1,0 +1,53 @@
+name: ContextForge
+description: IBM registry and proxy that federates MCP servers, A2A agents, and
+  REST or gRPC APIs into one endpoint with central governance, discovery, and
+  observability. Open source under Apache-2.0, implemented in Python.
+source_url: https://github.com/IBM/mcp-context-forge
+category: MCP Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - python
+  - ibm
+  - mcp-federation
+  - governance
+markdown: >-
+  ## Overview
+
+
+  ContextForge is an IBM registry and proxy that federates MCP servers, A2A
+  agents, and REST or gRPC APIs into one endpoint with central governance,
+  discovery, and observability.
+
+
+  ## Features
+
+
+  - Federates MCP servers, A2A agents, and REST or gRPC APIs into one endpoint
+
+  - Central governance
+
+  - Discovery
+
+  - Observability
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Python
+
+
+  ## Repository
+
+
+  https://github.com/IBM/mcp-context-forge
+brand: IBM
+brand_logo_url: https://github.com/IBM/mcp-context-forge/raw/main/logo.png
+updated_at: 2026-11-21 03:19

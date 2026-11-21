@@ -1,0 +1,48 @@
+name: Unla
+description: Lightweight gateway that turns existing MCP servers and HTTP APIs
+  into MCP endpoints through configuration, without code changes. Open source
+  under MIT, implemented in Go.
+source_url: https://github.com/AmoyLab/Unla
+category: MCP Gateways
+tags:
+  - open-source
+  - mit
+  - go
+  - lightweight
+  - configuration-only
+markdown: >-
+  ## Overview
+
+
+  Unla is a lightweight gateway that turns existing MCP servers and HTTP APIs
+  into MCP endpoints through configuration, without code changes.
+
+
+  ## Features
+
+
+  - Turns existing MCP servers and HTTP APIs into MCP endpoints
+
+  - Configuration-only, no code changes
+
+  - Lightweight gateway
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/AmoyLab/Unla
+brand: AmoyLab
+updated_at: 2026-11-21 03:19

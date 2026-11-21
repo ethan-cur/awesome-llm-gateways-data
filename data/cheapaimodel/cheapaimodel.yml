@@ -1,0 +1,59 @@
+name: cheapaimodel
+description: Hosted OpenAI-compatible API with one key for every model in its
+  catalog, billed per token from a prepaid US-dollar balance, with per-key
+  expiry dates, spending budgets, model allowlists, and IP allowlists.
+  Proprietary commercial product.
+source_url: https://cheapaimodel.ai/docs
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - prepaid
+  - per-token-billing
+  - spending-budgets
+  - ip-allowlists
+markdown: >-
+  ## Overview
+
+
+  cheapaimodel is a hosted OpenAI-compatible API with one key for every model in
+  its catalog. It is billed per token from a prepaid US-dollar balance, with
+  per-key expiry dates, spending budgets, model allowlists, and IP allowlists.
+
+
+  ## Features
+
+
+  - OpenAI-compatible API
+
+  - One key for every model in catalog
+
+  - Billed per token from prepaid US-dollar balance
+
+  - Per-key expiry dates
+
+  - Spending budgets
+
+  - Model allowlists
+
+  - IP allowlists
+
+
+  ## Pricing Model
+
+
+  Per-token billing from prepaid US-dollar balance.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://cheapaimodel.ai/docs
+brand: cheapaimodel
+updated_at: 2026-11-21 03:19

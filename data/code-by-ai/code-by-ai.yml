@@ -1,0 +1,39 @@
+name: Code By AI
+description: Hosted gateway for coding agents that serves Claude, GPT, and
+  Gemini models on one API key and one balance over the Anthropic Messages,
+  OpenAI Responses, OpenAI Chat Completions, and Gemini protocols. Billed per
+  token with no subscription. Proprietary commercial product.
+source_url: https://www.codebyai.net
+category: Managed Gateways
+tags:
+  - managed
+  - proprietary
+  - per-token-billing
+  - coding-agents
+markdown: >-
+  ## Overview
+
+
+  Code By AI is a hosted gateway for coding agents that serves Claude, GPT, and
+  Gemini models on one API key and one balance. It supports the Anthropic
+  Messages, OpenAI Responses, OpenAI Chat Completions, and Gemini protocols.
+
+
+  ## Pricing Model
+
+
+  Billed per token with no subscription.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.codebyai.net
+brand: Code By AI
+updated_at: 2026-11-21 03:19

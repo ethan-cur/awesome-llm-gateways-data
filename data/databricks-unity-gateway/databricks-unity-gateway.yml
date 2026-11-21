@@ -1,0 +1,55 @@
+name: Databricks Unity Gateway
+description: Governance layer built on Unity Catalog for traffic between models,
+  agents, MCP servers, and tools, with routing, service policies, and usage
+  monitoring. Proprietary commercial product offered by Databricks.
+source_url: https://docs.databricks.com/aws/en/ai-gateway/#:~:text=Unity%20Gateway%20is%20the%20Databricks%20governance%20solution
+category: Cloud and Platform AI Gateways
+tags:
+  - managed
+  - proprietary
+  - databricks
+  - unity-catalog
+  - governance
+  - usage-monitoring
+markdown: >-
+  ## Overview
+
+
+  Databricks Unity Gateway is a governance layer built on Unity Catalog for
+  traffic between models, agents, MCP servers, and tools. It provides routing,
+  service policies, and usage monitoring.
+
+
+  ## Features
+
+
+  - Governance layer built on Unity Catalog
+
+  - Traffic between models, agents, MCP servers, and tools
+
+  - Routing
+
+  - Service policies
+
+  - Usage monitoring
+
+
+  ## Pricing Model
+
+
+  Commercial/Databricks pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://docs.databricks.com/aws/en/ai-gateway/
+brand: Databricks
+brand_logo_url: https://docs.databricks.com/_next/static/media/databricks-logo.1e2f1e6d.svg
+updated_at: 2026-11-21 03:19

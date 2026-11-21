@@ -1,0 +1,36 @@
+name: Amazon Bedrock Intelligent Prompt Routing
+description: Serverless Bedrock endpoint that routes each request between models
+  in the same family based on predicted response quality. Proprietary commercial
+  product offered by AWS.
+source_url: https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html#prompt-routing-works
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - aws
+  - bedrock
+  - prompt-routing
+markdown: |-
+  ## Overview
+
+  Amazon Bedrock Intelligent Prompt Routing is a serverless Bedrock endpoint that routes each request between models in the same family based on predicted response quality.
+
+  ## Features
+
+  - Serverless Bedrock endpoint
+  - Routes each request between models in the same family
+  - Based on predicted response quality
+
+  ## Pricing Model
+
+  Commercial/AWS pricing.
+
+  ## Licensing
+
+  Proprietary
+
+  ## Official Website
+
+  https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html#prompt-routing-works
+brand: Amazon Web Services
+updated_at: 2026-11-21 03:19

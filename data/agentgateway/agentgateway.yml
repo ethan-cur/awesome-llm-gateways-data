@@ -1,0 +1,56 @@
+name: agentgateway
+description: Linux Foundation proxy built on MCP and A2A that acts as an LLM
+  gateway, an MCP gateway with tool federation and OAuth, and an A2A gateway for
+  agent-to-agent communication. Open source under Apache-2.0, implemented in
+  Rust.
+source_url: https://github.com/agentgateway/agentgateway
+category: Open-Source Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - rust
+  - linux-foundation
+  - mcp
+  - a2a
+markdown: >-
+  ## Overview
+
+
+  agentgateway is a Linux Foundation proxy built on MCP and A2A that acts as an
+  LLM gateway, an MCP gateway with tool federation and OAuth, and an A2A gateway
+  for agent-to-agent communication.
+
+
+  ## Features
+
+
+  - LLM gateway
+
+  - MCP gateway with tool federation and OAuth
+
+  - A2A gateway for agent-to-agent communication
+
+  - Built on MCP and A2A
+
+  - Linux Foundation project
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Rust
+
+
+  ## Repository
+
+
+  https://github.com/agentgateway/agentgateway
+brand: Linux Foundation
+brand_logo_url: https://github.com/agentgateway/agentgateway/raw/main/logo.png
+updated_at: 2026-11-21 03:19

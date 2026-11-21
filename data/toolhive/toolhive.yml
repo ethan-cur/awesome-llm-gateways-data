@@ -1,0 +1,50 @@
+name: ToolHive
+description: Platform that runs each MCP server in an isolated container,
+  enforces identity and access policy per request, and adds observability for
+  MCP in production. Open source under Apache-2.0, implemented in Go.
+source_url: https://github.com/stacklok/toolhive
+category: MCP Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - go
+  - isolated-containers
+  - observability
+markdown: >-
+  ## Overview
+
+
+  ToolHive is a platform that runs each MCP server in an isolated container,
+  enforces identity and access policy per request, and adds observability for
+  MCP in production.
+
+
+  ## Features
+
+
+  - Runs each MCP server in an isolated container
+
+  - Enforces identity and access policy per request
+
+  - Observability for MCP in production
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/stacklok/toolhive
+brand: Stacklok
+brand_logo_url: https://github.com/stacklok/toolhive/raw/main/logo.png
+updated_at: 2026-11-21 03:19

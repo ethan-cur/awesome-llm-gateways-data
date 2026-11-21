@@ -1,0 +1,59 @@
+name: Vectoree
+description: Hosted OpenAI-compatible gateway for coding agents with one project
+  key across multiple providers, plus auth, PostgreSQL and object storage, a CLI
+  and agent skill, billed pay-as-you-go with a $5 welcome credit. Proprietary
+  commercial product.
+source_url: https://vectoree.ai
+category: Managed Gateways
+tags:
+  - managed
+  - proprietary
+  - pay-as-you-go
+  - openai-compatible
+  - coding-agents
+markdown: >-
+  ## Overview
+
+
+  Vectoree is a hosted OpenAI-compatible gateway for coding agents with one
+  project key across multiple providers. It includes auth, PostgreSQL and object
+  storage, a CLI and agent skill, and is billed pay-as-you-go with a $5 welcome
+  credit.
+
+
+  ## Features
+
+
+  - OpenAI-compatible gateway
+
+  - One project key across multiple providers
+
+  - Authentication
+
+  - PostgreSQL and object storage
+
+  - CLI and agent skill
+
+  - Pay-as-you-go billing
+
+  - $5 welcome credit
+
+
+  ## Pricing Model
+
+
+  Pay-as-you-go with a $5 welcome credit.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://vectoree.ai
+brand: Vectoree
+updated_at: 2026-11-21 03:19

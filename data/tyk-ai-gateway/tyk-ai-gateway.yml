@@ -1,0 +1,53 @@
+name: Tyk AI Gateway
+description: Tyk's enterprise API gateway with AI capabilities for LLM traffic
+  management, including routing, rate limiting, caching, and developer portal
+  integration. Available as self-hosted and cloud options.
+source_url: https://tyk.io
+category: Edge AI Gateways
+tags:
+  - enterprise
+  - api-gateway
+  - self-hosted
+  - cloud-native
+markdown: >-
+  ## Overview
+
+
+  Tyk AI Gateway extends Tyk's enterprise API gateway platform with AI-specific
+  capabilities for managing LLM traffic. It provides routing, rate limiting,
+  caching, and developer portal integration for AI workloads.
+
+
+  ## Features
+
+
+  - Enterprise API gateway
+
+  - LLM traffic routing and management
+
+  - Rate limiting and throttling
+
+  - Response caching
+
+  - Developer portal
+
+  - Self-hosted and cloud deployment options
+
+  - Plugin ecosystem
+
+
+  ## Pricing
+
+
+  Freemium model with open-source core (Tyk Open Source) and paid
+  enterprise/self-managed and cloud tiers.
+
+
+  ## Deployment
+
+
+  Self-hosted and cloud-hosted
+brand: Tyk
+brand_logo_url: https://tyk.io/images/tyk-logo.svg
+images: []
+updated_at: 2026-11-21 03:19

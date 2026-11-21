@@ -1,0 +1,52 @@
+name: Azure AI Gateway
+description: Microsoft Azure's managed AI gateway and API management layer for
+  routing LLM workloads across Azure OpenAI and other model endpoints, with
+  policy enforcement, caching, and cost tracking. Part of Azure's first-party
+  cloud AI offerings.
+source_url: https://azure.microsoft.com/en-us/products/api-management
+category: Managed Gateways
+tags:
+  - managed
+  - cloud-native
+  - enterprise
+  - API
+markdown: >-
+  ## Overview
+
+
+  Azure AI Gateway provides managed API gateway capabilities for LLM workloads
+  running on Azure, including Azure OpenAI Service. It enables routing, caching,
+  fallbacks, and cost controls across multiple model endpoints.
+
+
+  ## Features
+
+
+  - Managed cloud deployment on Azure
+
+  - API routing and load balancing
+
+  - Caching and response compression
+
+  - Rate limiting and quota management
+
+  - Authentication and authorization policies
+
+  - Cost monitoring and tracking
+
+
+  ## Pricing
+
+
+  Consumption-based pricing through Azure API Management and Azure OpenAI
+  Service. Free tier available for API Management; paid tiers scale with usage.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (Azure)
+brand: Microsoft
+brand_logo_url: https://azure.microsoft.com/en-us/brand/azure-logo/svg/logo.svg
+images: []
+updated_at: 2026-11-21 03:19

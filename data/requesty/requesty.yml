@@ -1,0 +1,58 @@
+name: Requesty
+description: Hosted gateway and router for 600+ models through one
+  OpenAI-compatible API, with routing, caching, failover, spend limits, and EU
+  data residency. Proprietary commercial product.
+source_url: https://www.requesty.ai
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - eu-data-residency
+  - caching
+  - failover
+  - spend-limits
+markdown: >-
+  ## Overview
+
+
+  Requesty is a hosted gateway and router for 600+ models through one
+  OpenAI-compatible API, with routing, caching, failover, spend limits, and EU
+  data residency.
+
+
+  ## Features
+
+
+  - 600+ models
+
+  - OpenAI-compatible API
+
+  - Routing
+
+  - Caching
+
+  - Failover
+
+  - Spend limits
+
+  - EU data residency
+
+
+  ## Pricing Model
+
+
+  Commercial pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.requesty.ai
+brand: Requesty
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,52 @@
+name: Traceloop Hub
+description: LLM gateway that exposes an OpenAI-compatible API over OpenAI,
+  Anthropic, Azure OpenAI, Vertex AI, and Bedrock and records every call as
+  OpenTelemetry traces. Open source under Apache-2.0, implemented in Rust.
+source_url: https://github.com/traceloop/hub
+category: Observability-First Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - rust
+  - opentelemetry
+  - observability
+markdown: >-
+  ## Overview
+
+
+  Traceloop Hub is an LLM gateway that exposes an OpenAI-compatible API over
+  OpenAI, Anthropic, Azure OpenAI, Vertex AI, and Bedrock. It records every call
+  as OpenTelemetry traces.
+
+
+  ## Features
+
+
+  - OpenAI-compatible API
+
+  - Supports OpenAI, Anthropic, Azure OpenAI, Vertex AI, and Bedrock
+
+  - Records every call as OpenTelemetry traces
+
+  - Observability-first design
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Rust
+
+
+  ## Repository
+
+
+  https://github.com/traceloop/hub
+brand: Traceloop
+brand_logo_url: https://github.com/traceloop/hub/raw/main/logo.png
+updated_at: 2026-11-21 03:19

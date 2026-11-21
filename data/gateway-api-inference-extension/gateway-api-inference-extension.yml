@@ -1,0 +1,53 @@
+name: Gateway API Inference Extension
+description: Kubernetes SIG project that uses Envoy external processing to turn
+  a compatible Gateway API implementation into an inference gateway for
+  self-hosted models. Open source under Apache-2.0, implemented in Go.
+source_url: https://github.com/kubernetes-sigs/gateway-api-inference-extension
+category: Edge AI Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - go
+  - kubernetes
+  - envoy
+  - gateway-api
+markdown: >-
+  ## Overview
+
+
+  Gateway API Inference Extension is a Kubernetes SIG project that uses Envoy
+  external processing to turn a compatible Gateway API implementation into an
+  inference gateway for self-hosted models.
+
+
+  ## Features
+
+
+  - Uses Envoy external processing
+
+  - Turns Gateway API implementation into an inference gateway
+
+  - For self-hosted models
+
+  - Kubernetes SIG project
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/kubernetes-sigs/gateway-api-inference-extension
+brand: Kubernetes SIG
+brand_logo_url: https://github.com/kubernetes-sigs/gateway-api-inference-extension/raw/main/logo.png
+updated_at: 2026-11-21 03:19

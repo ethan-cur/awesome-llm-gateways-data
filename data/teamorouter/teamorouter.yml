@@ -1,0 +1,58 @@
+name: TeamoRouter
+description: A China/Asia AI API relay station of mixed type serving as an
+  OpenAI / Anthropic / Gemini-compatible gateway. Supports Alipay, WeChat, card
+  and USDT (BEP20 / TRC20 / ERC20) payment. Offers image models on
+  /v1/images/generations with the same key. Operator-claimed multi-upstream
+  routing with Claude Code / Codex setup guides. Unverified status with
+  operator-self flag.
+source_url: https://teamorouter.com
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TeamoRouter is a mixed-type AI API relay station serving as an OpenAI /
+  Anthropic / Gemini-compatible gateway for the China/Asia region.
+
+
+  ## Features
+
+
+  - OpenAI / Anthropic / Gemini-compatible gateway
+
+  - Alipay, WeChat, card and USDT (BEP20 / TRC20 / ERC20) payment support
+
+  - Image models on /v1/images/generations with the same key
+
+  - Operator-claimed multi-upstream routing
+
+  - Claude Code / Codex setup guides
+
+  - Operator-claimed gpt-6-astra support
+
+
+  ## Pricing
+
+
+  Paid service with multiple payment methods. Prices change frequently; verify
+  on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted relay service.
+
+
+  ## Trust Notes
+
+
+  Status: unverified · ⚠ operator-self. Listing does not constitute endorsement.
+brand: TeamoRouter
+images: []
+updated_at: 2026-11-21 03:19

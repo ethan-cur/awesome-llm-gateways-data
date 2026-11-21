@@ -1,0 +1,50 @@
+name: AIBrix
+description: A Kubernetes-native open-source platform for large-scale LLM
+  inference and serving, providing disaggregated inference architecture and
+  gateway-style API access. Designed for high-throughput LLM deployments.
+source_url: https://github.com/aibrix
+category: Edge AI Gateways
+tags:
+  - kubernetes
+  - open-source
+  - llm-inference
+  - disaggregated-serving
+markdown: >-
+  ## Overview
+
+
+  AIBrix is a Kubernetes-native open-source platform for large-scale LLM
+  inference and serving. It provides disaggregated inference architecture and
+  gateway-style API access for high-throughput LLM deployments.
+
+
+  ## Features
+
+
+  - Kubernetes-native LLM inference
+
+  - Disaggregated inference architecture
+
+  - High-throughput model serving
+
+  - Gateway-style API access
+
+  - Scalable for large models
+
+  - Open-source
+
+
+  ## Pricing
+
+
+  Free and open-source. Self-hosted; infrastructure costs borne by the operator.
+
+
+  ## Deployment
+
+
+  Self-hosted (Kubernetes)
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,50 @@
+name: MuleSoft Agent Fabric
+description: Salesforce MuleSoft product that applies one set of policies to
+  agents, MCP servers, and models without rebuilding or instrumenting them.
+  Proprietary commercial product.
+source_url: https://www.mulesoft.com/platform/agent-governance
+category: Edge AI Gateways
+tags:
+  - managed
+  - proprietary
+  - salesforce
+  - mulesoft
+  - agent-governance
+markdown: >-
+  ## Overview
+
+
+  MuleSoft Agent Fabric is a Salesforce MuleSoft product that applies one set of
+  policies to agents, MCP servers, and models without rebuilding or
+  instrumenting them.
+
+
+  ## Features
+
+
+  - One set of policies for agents, MCP servers, and models
+
+  - No rebuilding or instrumenting required
+
+  - Salesforce MuleSoft product
+
+
+  ## Pricing Model
+
+
+  Commercial/Enterprise pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.mulesoft.com/platform/agent-governance
+brand: MuleSoft
+brand_logo_url: https://www.mulesoft.com/assets/images/logo.svg
+updated_at: 2026-11-21 03:19

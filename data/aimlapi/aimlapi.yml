@@ -1,0 +1,51 @@
+name: AIMLAPI
+description: A managed LLM API gateway aggregating access to hundreds of AI
+  models through a single API endpoint, with routing, cost controls, and usage
+  tracking. Cloud-hosted with a free tier.
+source_url: https://aimlapi.com
+category: Managed Gateways
+tags:
+  - managed
+  - api
+  - model-aggregator
+  - cloud-hosted
+markdown: >-
+  ## Overview
+
+
+  AIMLAPI is a managed LLM API gateway that aggregates access to hundreds of AI
+  models through a single unified API endpoint. It provides model routing, cost
+  controls, and usage tracking for developers building AI applications.
+
+
+  ## Features
+
+
+  - Single API for 200+ AI models
+
+  - Model routing and load balancing
+
+  - Cost controls and budget tracking
+
+  - Usage analytics and monitoring
+
+  - OpenAI-compatible interface
+
+  - Cloud-hosted managed service
+
+
+  ## Pricing
+
+
+  Freemium model with a free tier and paid plans based on model usage and API
+  volume.
+
+
+  ## Deployment
+
+
+  Cloud-hosted
+brand: AIMLAPI
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 03:19

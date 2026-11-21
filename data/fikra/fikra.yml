@@ -1,0 +1,55 @@
+name: Fikra
+description: Hosted OpenAI-compatible API serving open-weight models behind one
+  key, prepaid per-token billing, M-Pesa and card payment, context windows up to
+  1M tokens. Proprietary commercial product.
+source_url: https://fikraapi.co.ke/
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - prepaid
+  - m-pesa
+  - 1m-context-window
+markdown: >-
+  ## Overview
+
+
+  Fikra is a hosted OpenAI-compatible API serving open-weight models behind one
+  key, with prepaid per-token billing, M-Pesa and card payment, and context
+  windows up to 1M tokens.
+
+
+  ## Features
+
+
+  - OpenAI-compatible API
+
+  - Open-weight models
+
+  - One key
+
+  - Prepaid per-token billing
+
+  - M-Pesa and card payment
+
+  - Context windows up to 1M tokens
+
+
+  ## Pricing Model
+
+
+  Prepaid per-token billing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://fikraapi.co.ke/
+brand: Fikra
+updated_at: 2026-11-21 03:19

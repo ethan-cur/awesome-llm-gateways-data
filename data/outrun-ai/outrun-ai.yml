@@ -1,0 +1,61 @@
+name: Outrun AI
+description: Hosted API that serves chat, image, video, and speech models from
+  the GPT, Claude, Gemini, and Grok families through one key, with OpenAI Chat
+  Completions, OpenAI Responses, Anthropic Messages, and Gemini native endpoints
+  and a USD credit balance endpoint. Proprietary commercial product.
+source_url: https://outrun.to/docs/api
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - usd-credit-balance
+  - gemini-native
+  - grok
+markdown: >-
+  ## Overview
+
+
+  Outrun AI is a hosted API that serves chat, image, video, and speech models
+  from the GPT, Claude, Gemini, and Grok families through one key. It provides
+  OpenAI Chat Completions, OpenAI Responses, Anthropic Messages, and Gemini
+  native endpoints and a USD credit balance endpoint.
+
+
+  ## Features
+
+
+  - Chat, image, video, and speech models
+
+  - GPT, Claude, Gemini, and Grok families
+
+  - One key
+
+  - OpenAI Chat Completions
+
+  - OpenAI Responses
+
+  - Anthropic Messages
+
+  - Gemini native endpoints
+
+  - USD credit balance endpoint
+
+
+  ## Pricing Model
+
+
+  Commercial pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://outrun.to/docs/api
+brand: Outrun AI
+updated_at: 2026-11-21 03:19

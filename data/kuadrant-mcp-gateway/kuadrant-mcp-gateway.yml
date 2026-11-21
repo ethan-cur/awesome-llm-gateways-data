@@ -1,0 +1,53 @@
+name: Kuadrant MCP Gateway
+description: Envoy-based gateway that aggregates and routes multiple MCP servers
+  behind one endpoint and uses Istio and Gateway API policy attachment for
+  authentication, authorization, and rate limiting. Open source under
+  Apache-2.0, implemented in Go.
+source_url: https://github.com/Kuadrant/mcp-gateway
+category: MCP Gateways
+tags:
+  - open-source
+  - apache-2.0
+  - go
+  - envoy
+  - istio
+  - gateway-api
+markdown: >-
+  ## Overview
+
+
+  Kuadrant MCP Gateway is an Envoy-based gateway that aggregates and routes
+  multiple MCP servers behind one endpoint. It uses Istio and Gateway API policy
+  attachment for authentication, authorization, and rate limiting.
+
+
+  ## Features
+
+
+  - Aggregates and routes multiple MCP servers behind one endpoint
+
+  - Envoy-based
+
+  - Authentication, authorization, and rate limiting via Istio and Gateway API
+  policy attachment
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/Kuadrant/mcp-gateway
+brand: Kuadrant
+brand_logo_url: https://github.com/Kuadrant/mcp-gateway/raw/main/logo.png
+updated_at: 2026-11-21 03:19

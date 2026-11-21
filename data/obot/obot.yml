@@ -1,0 +1,53 @@
+name: Obot
+description: Self-hosted AI governance platform with MCP and LLM gateways, MCP
+  and skills registries, and isolated hosting for MCP servers. Open source under
+  MIT, implemented in Go.
+source_url: https://github.com/obot-platform/obot
+category: MCP Gateways
+tags:
+  - open-source
+  - mit
+  - go
+  - ai-governance
+  - self-hosted
+  - isolated-hosting
+markdown: >-
+  ## Overview
+
+
+  Obot is a self-hosted AI governance platform with MCP and LLM gateways, MCP
+  and skills registries, and isolated hosting for MCP servers.
+
+
+  ## Features
+
+
+  - MCP and LLM gateways
+
+  - MCP and skills registries
+
+  - Isolated hosting for MCP servers
+
+  - AI governance platform
+
+  - Self-hosted
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/obot-platform/obot
+brand: Obot
+updated_at: 2026-11-21 03:19

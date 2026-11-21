@@ -1,0 +1,50 @@
+name: CloseAI
+description: An official-relay AI API station serving enterprise customers in
+  Asia. Issues enterprise invoices and self-describes as the largest
+  enterprise-grade relay in Asia. Active status verified as of 2026-05-26 with
+  registered company status. Supports Alipay, WeChat, and Invoice payment
+  methods.
+source_url: https://www.closeai-asia.com
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+  - Enterprise
+featured: false
+markdown: >
+  ## Overview
+
+
+  CloseAI is an official-relay AI API station serving the Asia region. It
+  positions itself as the largest enterprise-grade relay in Asia and issues
+  enterprise invoices to customers.
+
+
+  ## Features
+
+
+  - Official-relay type station
+
+  - Enterprise invoice issuance
+
+  - Supports Alipay, WeChat, and Invoice payment
+
+  - Active status verified as of 2026-05-26
+
+  - Registered company entity publicly visible
+
+
+  ## Pricing
+
+
+  Paid service. Prices change frequently; verify on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted relay service.
+brand: CloseAI
+images: []
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,52 @@
+name: vLLM Semantic Router
+description: Policy-driven router from the vLLM project that selects or combines
+  models for each call across local, private, and cloud backends. Open source
+  under Apache-2.0, implemented in Go.
+source_url: https://github.com/vllm-project/semantic-router
+category: Model Routers
+tags:
+  - open-source
+  - apache-2.0
+  - go
+  - vllm
+  - policy-driven
+markdown: >-
+  ## Overview
+
+
+  vLLM Semantic Router is a policy-driven router from the vLLM project that
+  selects or combines models for each call across local, private, and cloud
+  backends.
+
+
+  ## Features
+
+
+  - Policy-driven routing
+
+  - Selects or combines models for each call
+
+  - Local, private, and cloud backends
+
+  - vLLM project
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/vllm-project/semantic-router
+brand: vLLM
+brand_logo_url: https://github.com/vllm-project/semantic-router/raw/main/logo.png
+updated_at: 2026-11-21 03:19

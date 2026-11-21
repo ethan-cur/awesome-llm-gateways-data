@@ -1,0 +1,41 @@
+name: Google Cloud Agent Gateway
+description: Enforcement point in the Gemini Enterprise Agent Platform that
+  applies access policies, mTLS, agent identities, and MCP security to
+  agent-to-agent and agent-to-tool traffic. Proprietary commercial product
+  offered by Google Cloud.
+source_url: https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/gateways/agent-gateway-overview#core-governance-components
+category: Managed Gateways
+tags:
+  - managed
+  - proprietary
+  - google-cloud
+  - gemini
+  - mtls
+  - mcp-security
+markdown: |-
+  ## Overview
+
+  Google Cloud Agent Gateway is an enforcement point in the Gemini Enterprise Agent Platform that applies access policies, mTLS, agent identities, and MCP security to agent-to-agent and agent-to-tool traffic.
+
+  ## Features
+
+  - Access policies
+  - mTLS
+  - Agent identities
+  - MCP security
+  - Agent-to-agent and agent-to-tool traffic governance
+
+  ## Pricing Model
+
+  Commercial/Google Cloud pricing.
+
+  ## Licensing
+
+  Proprietary
+
+  ## Official Website
+
+  https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/gateways/agent-gateway-overview#core-governance-components
+brand: Google Cloud
+brand_logo_url: https://cloud.google.com/_static/cloud/images/logos/logo_cloud.svg
+updated_at: 2026-11-21 03:19

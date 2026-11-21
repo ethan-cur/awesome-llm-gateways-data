@@ -1,0 +1,53 @@
+name: GoModel
+description: Lightweight gateway with OpenAI-compatible and Anthropic-compatible
+  APIs across providers, response caching, spend tracking, and a dashboard for
+  adding providers. Open source under MIT, implemented in Go.
+source_url: https://github.com/ENTERPILOT/GoModel
+category: Open-Source Gateways
+tags:
+  - open-source
+  - mit
+  - openai-compatible
+  - anthropic-compatible
+  - caching
+markdown: >-
+  ## Overview
+
+
+  GoModel is a lightweight gateway with OpenAI-compatible and
+  Anthropic-compatible APIs across providers. It includes response caching,
+  spend tracking, and a dashboard for adding providers.
+
+
+  ## Features
+
+
+  - OpenAI-compatible API
+
+  - Anthropic-compatible API
+
+  - Response caching
+
+  - Spend tracking
+
+  - Dashboard for adding providers
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Implementation Language
+
+
+  Go
+
+
+  ## Repository
+
+
+  https://github.com/ENTERPILOT/GoModel
+brand: ENTERPILOT
+updated_at: 2026-11-21 03:19

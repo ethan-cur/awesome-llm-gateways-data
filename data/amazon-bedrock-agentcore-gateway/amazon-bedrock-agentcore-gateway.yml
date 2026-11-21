@@ -1,0 +1,40 @@
+name: Amazon Bedrock AgentCore Gateway
+description: Managed AWS entry point for agent traffic that turns APIs and
+  Lambda functions into MCP tools, fronts other agents including A2A traffic,
+  and routes inference across model providers. Proprietary commercial product
+  offered by AWS.
+source_url: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html#gateway-core-concepts-connectivity-layer
+category: Managed Gateways
+tags:
+  - managed
+  - proprietary
+  - aws
+  - bedrock
+  - mcp-tools
+  - a2a
+markdown: |-
+  ## Overview
+
+  Amazon Bedrock AgentCore Gateway is a managed AWS entry point for agent traffic that turns APIs and Lambda functions into MCP tools, fronts other agents including A2A traffic, and routes inference across model providers.
+
+  ## Features
+
+  - Turns APIs and Lambda functions into MCP tools
+  - Fronts other agents including A2A traffic
+  - Routes inference across model providers
+  - Managed AWS service
+
+  ## Pricing Model
+
+  Commercial/AWS pricing.
+
+  ## Licensing
+
+  Proprietary
+
+  ## Official Website
+
+  https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html#gateway-core-concepts-connectivity-layer
+brand: Amazon Web Services
+brand_logo_url: https://docs.aws.amazon.com/batch/latest/userguide/assets/batch-logo.png
+updated_at: 2026-11-21 03:19

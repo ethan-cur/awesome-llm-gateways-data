@@ -1,0 +1,52 @@
+name: KServe
+description: A Kubernetes-native serverless inference platform for deploying and
+  managing ML and LLM models at scale. Provides model serving, autoscaling, and
+  gateway-style API access for inference workloads.
+source_url: https://kserve.github.io
+category: Edge AI Gateways
+tags:
+  - kubernetes
+  - open-source
+  - serverless-inference
+  - model-serving
+markdown: >-
+  ## Overview
+
+
+  KServe is a Kubernetes-native serverless inference platform for deploying and
+  managing ML and LLM models at scale. It provides model serving, autoscaling,
+  and gateway-style API access for inference workloads, built on Knative and
+  Kubernetes.
+
+
+  ## Features
+
+
+  - Kubernetes-native model serving
+
+  - Serverless inference with autoscaling
+
+  - Multi-framework support (TensorFlow, PyTorch, XGBoost, etc.)
+
+  - Canary rollouts and traffic splitting
+
+  - Gateway-style API for inference
+
+  - Open-source CNCF project
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license. Self-hosted on Kubernetes;
+  infrastructure costs borne by the operator.
+
+
+  ## Deployment
+
+
+  Self-hosted (Kubernetes)
+brand: Cloud Native Computing Foundation
+brand_logo_url: https://www.cncf.io/wp-content/uploads/2022/07/cncf-color-bg.svg
+images: []
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,49 @@
+name: APIClaw
+description: An aggregator-type OpenAI-compatible gateway routing Anthropic,
+  OpenAI, Gemini, DeepSeek and other providers on one key. Paid plans are billed
+  monthly in crypto. Crypto payment accepted.
+source_url: https://apiclaw.biz
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >
+  ## Overview
+
+
+  APIClaw is an aggregator-type OpenAI-compatible gateway routing multiple model
+  providers on a single key.
+
+
+  ## Features
+
+
+  - Aggregator-type gateway
+
+  - OpenAI-compatible
+
+  - Routes Anthropic, OpenAI, Gemini, DeepSeek and other providers
+
+  - One key for multiple providers
+
+  - Paid plans billed monthly in crypto
+
+  - Crypto payment accepted
+
+
+  ## Pricing
+
+
+  Paid service with monthly crypto billing. Prices change frequently; verify
+  on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted aggregator service.
+brand: APIClaw
+images: []
+updated_at: 2026-11-21 03:19

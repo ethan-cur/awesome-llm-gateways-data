@@ -1,0 +1,40 @@
+name: Azure API Management AI Gateway
+description: Azure API Management policies for LLM APIs, MCP servers, and A2A
+  agent APIs, including token rate limits, semantic caching, load balancing, and
+  circuit breakers. Proprietary commercial product offered by Microsoft Azure.
+source_url: https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities#traffic-mediation-and-control
+category: Cloud and Platform AI Gateways
+tags:
+  - managed
+  - proprietary
+  - azure
+  - api-management
+  - semantic-caching
+  - circuit-breakers
+markdown: |-
+  ## Overview
+
+  Azure API Management AI Gateway provides Azure API Management policies for LLM APIs, MCP servers, and A2A agent APIs. It includes token rate limits, semantic caching, load balancing, and circuit breakers.
+
+  ## Features
+
+  - Policies for LLM APIs, MCP servers, and A2A agent APIs
+  - Token rate limits
+  - Semantic caching
+  - Load balancing
+  - Circuit breakers
+
+  ## Pricing Model
+
+  Commercial/Azure pricing.
+
+  ## Licensing
+
+  Proprietary
+
+  ## Official Website
+
+  https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities#traffic-mediation-and-control
+brand: Microsoft Azure
+brand_logo_url: https://learn.microsoft.com/azure/azure-support/media/support-media-long/index/azure-logo.svg
+updated_at: 2026-11-21 03:19

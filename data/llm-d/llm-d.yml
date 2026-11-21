@@ -1,0 +1,50 @@
+name: llm-d
+description: A distributed LLM inference platform for Kubernetes, providing
+  large-scale model serving with disaggregated inference architecture. Designed
+  for high-throughput LLM deployments in cloud-native environments.
+source_url: https://llm-d.io
+category: Edge AI Gateways
+tags:
+  - kubernetes
+  - open-source
+  - distributed-inference
+  - llm-serving
+markdown: >-
+  ## Overview
+
+
+  llm-d is a distributed LLM inference platform for Kubernetes, providing
+  large-scale model serving with disaggregated inference architecture. It is
+  designed for high-throughput LLM deployments in cloud-native environments.
+
+
+  ## Features
+
+
+  - Distributed LLM inference
+
+  - Kubernetes-native deployment
+
+  - Disaggregated inference architecture
+
+  - High-throughput model serving
+
+  - Scalable for large models
+
+  - Open-source
+
+
+  ## Pricing
+
+
+  Free and open-source. Self-hosted; infrastructure costs borne by the operator.
+
+
+  ## Deployment
+
+
+  Self-hosted (Kubernetes)
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 03:19

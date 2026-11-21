@@ -1,0 +1,50 @@
+name: GPUStack
+description: An open-source LLM inference server and gateway for managing GPU
+  resources and serving multiple models. Provides model serving, resource
+  scheduling, and API access for self-hosted LLM deployments.
+source_url: https://github.com/GPUStack-io/gpu-stack
+category: Edge AI Gateways
+tags:
+  - open-source
+  - self-hosted
+  - gpu-management
+  - llm-serving
+markdown: >-
+  ## Overview
+
+
+  GPUStack is an open-source LLM inference server and gateway for managing GPU
+  resources and serving multiple models. It provides model serving, resource
+  scheduling, and API access for self-hosted LLM deployments.
+
+
+  ## Features
+
+
+  - LLM inference serving
+
+  - GPU resource management and scheduling
+
+  - Multi-model support
+
+  - API gateway for model access
+
+  - Self-hosted deployment
+
+  - Open-source
+
+
+  ## Pricing
+
+
+  Free and open-source. Self-hosted; infrastructure costs borne by the operator.
+
+
+  ## Deployment
+
+
+  Self-hosted
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 03:19

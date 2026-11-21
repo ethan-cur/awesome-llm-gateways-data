@@ -1,0 +1,57 @@
+name: UberLLM
+description: Hosted API that accepts OpenAI and Anthropic wire formats with one
+  key for every model in its catalog, sends each call to a third-party provider,
+  bills what that provider charged from a prepaid balance, and supports per-key
+  spend limits and per-minute rate limits. Proprietary commercial product.
+source_url: https://uberllm.dev/docs/quickstart
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - per-key-spend-limits
+  - per-minute-rate-limits
+  - prepaid-balance
+markdown: >-
+  ## Overview
+
+
+  UberLLM is a hosted API that accepts OpenAI and Anthropic wire formats with
+  one key for every model in its catalog. It sends each call to a third-party
+  provider, bills what that provider charged from a prepaid balance, and
+  supports per-key spend limits and per-minute rate limits.
+
+
+  ## Features
+
+
+  - OpenAI and Anthropic wire formats
+
+  - One key for every model in catalog
+
+  - Third-party provider routing
+
+  - Per-key spend limits
+
+  - Per-minute rate limits
+
+  - Prepaid balance billing
+
+
+  ## Pricing Model
+
+
+  Prepaid balance billing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://uberllm.dev/docs/quickstart
+brand: UberLLM
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,60 @@
+name: Septor Labs
+description: Hosted gateway that serves OpenAI-style and Anthropic-style clients
+  from one key, routes by priority, weight, least-connections, or latency, fails
+  over before the first token, and adds semantic caching, per-key budgets, and
+  prepaid credits. Proprietary commercial product.
+source_url: https://septorlabs.com/docs/introduction
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - semantic-caching
+  - per-key-budgets
+  - prepaid-credits
+  - failover-before-first-token
+markdown: >-
+  ## Overview
+
+
+  Septor Labs is a hosted gateway that serves OpenAI-style and Anthropic-style
+  clients from one key. It routes by priority, weight, least-connections, or
+  latency, fails over before the first token, and adds semantic caching, per-key
+  budgets, and prepaid credits.
+
+
+  ## Features
+
+
+  - OpenAI-style and Anthropic-style clients
+
+  - One key
+
+  - Routing by priority, weight, least-connections, or latency
+
+  - Failover before the first token
+
+  - Semantic caching
+
+  - Per-key budgets
+
+  - Prepaid credits
+
+
+  ## Pricing Model
+
+
+  Prepaid credits.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://septorlabs.com/docs/introduction
+brand: Septor Labs
+updated_at: 2026-11-21 03:19

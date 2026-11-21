@@ -1,0 +1,53 @@
+name: looot
+description: Hosted gateway that gives AI agents one MCP endpoint and one
+  prepaid balance for paid business-data APIs, with provider fallback, a price
+  shown before each run, and a per-run cost cap. Proprietary commercial product.
+source_url: https://docs.looot.ai
+category: MCP Gateways
+tags:
+  - managed
+  - proprietary
+  - prepaid
+  - provider-fallback
+  - cost-cap
+markdown: >-
+  ## Overview
+
+
+  looot is a hosted gateway that gives AI agents one MCP endpoint and one
+  prepaid balance for paid business-data APIs. It includes provider fallback, a
+  price shown before each run, and a per-run cost cap.
+
+
+  ## Features
+
+
+  - One MCP endpoint for AI agents
+
+  - Prepaid balance for paid business-data APIs
+
+  - Provider fallback
+
+  - Price shown before each run
+
+  - Per-run cost cap
+
+
+  ## Pricing Model
+
+
+  Prepaid.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://docs.looot.ai
+brand: looot
+updated_at: 2026-11-21 03:19

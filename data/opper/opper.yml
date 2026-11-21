@@ -1,0 +1,61 @@
+name: Opper
+description: Hosted gateway and router for 700+ models through one EU-hosted,
+  OpenAI-compatible API, with automatic failover, spend limits, model
+  allowlists, zero data retention, and ISO 27001 certification. Proprietary
+  commercial product.
+source_url: https://opper.ai
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - eu-hosted
+  - iso-27001
+  - zero-data-retention
+  - spend-limits
+markdown: >-
+  ## Overview
+
+
+  Opper is a hosted gateway and router for 700+ models through one EU-hosted,
+  OpenAI-compatible API, with automatic failover, spend limits, model
+  allowlists, zero data retention, and ISO 27001 certification.
+
+
+  ## Features
+
+
+  - 700+ models
+
+  - EU-hosted
+
+  - OpenAI-compatible API
+
+  - Automatic failover
+
+  - Spend limits
+
+  - Model allowlists
+
+  - Zero data retention
+
+  - ISO 27001 certification
+
+
+  ## Pricing Model
+
+
+  Commercial pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://opper.ai
+brand: Opper
+updated_at: 2026-11-21 03:19

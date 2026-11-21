@@ -1,0 +1,52 @@
+name: one-api
+description: An open-source LLM API gateway and management system for the China
+  ecosystem, offering OpenAI-compatible routing, user management, token
+  tracking, and channel distribution across multiple LLM providers. Self-hosted.
+source_url: https://github.com/songquanpeng/one-api
+category: Open-Source Gateways
+tags:
+  - open-source
+  - self-hosted
+  - api
+  - china-ecosystem
+markdown: >-
+  ## Overview
+
+
+  one-api is an open-source LLM gateway for the China ecosystem that unifies
+  multiple LLM providers behind an OpenAI-compatible API. It includes user
+  management, channel distribution, token tracking, and cost controls for
+  self-hosted deployments.
+
+
+  ## Features
+
+
+  - OpenAI-compatible API
+
+  - Multi-channel model distribution
+
+  - User and team management
+
+  - Token usage tracking
+
+  - Cost and quota controls
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open-source. Self-hosted; infrastructure and model API costs borne by
+  the operator.
+
+
+  ## Deployment
+
+
+  Self-hosted
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 03:19

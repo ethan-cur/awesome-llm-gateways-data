@@ -1,0 +1,56 @@
+name: Standard Compute
+description: Hosted router for coding agents that serves OpenAI and Anthropic
+  clients from one key, picks a model for each request unless one is pinned, and
+  sells monthly plans with a fixed compute budget, returning HTTP 402 once it is
+  used. Proprietary commercial product.
+source_url: https://docs.standardcompute.com
+category: Model Routers
+tags:
+  - managed
+  - proprietary
+  - coding-agents
+  - monthly-plans
+  - compute-budget
+  - http-402
+markdown: >-
+  ## Overview
+
+
+  Standard Compute is a hosted router for coding agents that serves OpenAI and
+  Anthropic clients from one key. It picks a model for each request unless one
+  is pinned, and sells monthly plans with a fixed compute budget, returning HTTP
+  402 once it is used.
+
+
+  ## Features
+
+
+  - OpenAI and Anthropic clients
+
+  - One key
+
+  - Model selection per request unless pinned
+
+  - Monthly plans with fixed compute budget
+
+  - HTTP 402 when budget is used
+
+
+  ## Pricing Model
+
+
+  Monthly plans with fixed compute budget.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://docs.standardcompute.com
+brand: Standard Compute
+updated_at: 2026-11-21 03:19

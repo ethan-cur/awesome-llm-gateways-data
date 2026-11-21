@@ -1,0 +1,52 @@
+name: Gravitee AI Gateway
+description: Gravitee's open-source API management platform with AI gateway
+  features for LLM traffic orchestration, including routing, policy enforcement,
+  observability, and monetization. Self-hosted and cloud options available.
+source_url: https://gravitee.io
+category: Edge AI Gateways
+tags:
+  - open-source
+  - api-management
+  - self-hosted
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Gravitee AI Gateway is Gravitee's open-source API management platform extended
+  with AI gateway capabilities for LLM traffic orchestration. It supports
+  routing, policy enforcement, observability, and API monetization for AI
+  workloads.
+
+
+  ## Features
+
+
+  - Open-source API management
+
+  - LLM traffic orchestration
+
+  - Policy enforcement and governance
+
+  - Observability and analytics
+
+  - API monetization
+
+  - Self-hosted and cloud deployment
+
+
+  ## Pricing
+
+
+  Open-source core available free under Apache 2.0 license; paid enterprise and
+  cloud tiers with additional features.
+
+
+  ## Deployment
+
+
+  Self-hosted and cloud-hosted
+brand: Gravitee
+brand_logo_url: https://gravitee.io/logo.svg
+images: []
+updated_at: 2026-11-21 03:19

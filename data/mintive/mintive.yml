@@ -1,0 +1,50 @@
+name: Mintive
+description: MCP gateway and LLM gateway, formerly MintMCP, that gives each
+  agent its own identity and governs access to models and tools by role.
+  Proprietary commercial product.
+source_url: https://www.mintive.com/
+category: MCP Gateways
+tags:
+  - managed
+  - proprietary
+  - mcp-gateway
+  - llm-gateway
+  - role-based-access
+markdown: >-
+  ## Overview
+
+
+  Mintive is an MCP gateway and LLM gateway, formerly MintMCP, that gives each
+  agent its own identity and governs access to models and tools by role.
+
+
+  ## Features
+
+
+  - MCP gateway
+
+  - LLM gateway
+
+  - Agent identity
+
+  - Role-based access to models and tools
+
+
+  ## Pricing Model
+
+
+  Commercial pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.mintive.com/
+brand: Mintive
+updated_at: 2026-11-21 03:19

@@ -1,0 +1,51 @@
+name: LLM Gateway
+description: Gateway and dashboard that route requests to multiple LLM providers
+  through one API, keep provider keys in one place, and track token usage and
+  cost. Open source under AGPL-3.0, implemented in TypeScript.
+source_url: https://github.com/theopenco/llmgateway
+category: Open-Source Gateways
+tags:
+  - open-source
+  - agpl-3.0
+  - typescript
+  - dashboard
+  - cost-tracking
+markdown: >-
+  ## Overview
+
+
+  LLM Gateway is a gateway and dashboard that routes requests to multiple LLM
+  providers through one API. It keeps provider keys in one place and tracks
+  token usage and cost.
+
+
+  ## Features
+
+
+  - Route requests to multiple LLM providers through one API
+
+  - Keep provider keys in one place
+
+  - Track token usage and cost
+
+  - Dashboard for management
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Implementation Language
+
+
+  TypeScript
+
+
+  ## Repository
+
+
+  https://github.com/theopenco/llmgateway
+brand: theopenco
+updated_at: 2026-11-21 03:19

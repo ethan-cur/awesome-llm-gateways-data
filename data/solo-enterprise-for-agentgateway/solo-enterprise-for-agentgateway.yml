@@ -1,0 +1,52 @@
+name: Solo Enterprise for agentgateway
+description: Commercial agentgateway offering from Solo.io for LLM, MCP, and
+  inference traffic, with centralized provider key storage, enterprise IAM
+  integration, and token-based rate limits. Proprietary commercial product.
+source_url: https://www.solo.io/products/agentgateway
+category: Managed Gateways
+tags:
+  - managed
+  - proprietary
+  - enterprise
+  - centralized-key-storage
+  - iam-integration
+markdown: >-
+  ## Overview
+
+
+  Solo Enterprise for agentgateway is a commercial agentgateway offering from
+  Solo.io for LLM, MCP, and inference traffic. It provides centralized provider
+  key storage, enterprise IAM integration, and token-based rate limits.
+
+
+  ## Features
+
+
+  - LLM, MCP, and inference traffic
+
+  - Centralized provider key storage
+
+  - Enterprise IAM integration
+
+  - Token-based rate limits
+
+
+  ## Pricing Model
+
+
+  Commercial/Enterprise pricing.
+
+
+  ## Licensing
+
+
+  Proprietary
+
+
+  ## Official Website
+
+
+  https://www.solo.io/products/agentgateway
+brand: Solo.io
+brand_logo_url: https://www.solo.io/images/logo.svg
+updated_at: 2026-11-21 03:19

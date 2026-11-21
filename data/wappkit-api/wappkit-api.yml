@@ -1,0 +1,53 @@
+name: Wappkit API
+description: A China/Asia AI API relay station of mixed type. A new-api
+  OpenAI-compatible gateway with public /api/pricing. Listed groups are
+  Codex/Claude-Code pools (no flat default group). Unverified status with
+  operator-self flag.
+source_url: https://api.wappkit.com
+category: Managed Gateways
+tags:
+  - API
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Wappkit API is a mixed-type AI API relay station serving the China/Asia
+  region. It is a new-api OpenAI-compatible gateway with public pricing
+  endpoint.
+
+
+  ## Features
+
+
+  - Mixed-type relay station
+
+  - new-api OpenAI-compatible gateway
+
+  - Public /api/pricing endpoint
+
+  - Listed groups are Codex/Claude-Code pools (no flat default group)
+
+
+  ## Pricing
+
+
+  Paid service with public pricing at /api/pricing. Prices change frequently;
+  verify on-site.
+
+
+  ## Deployment
+
+
+  Cloud-hosted relay service.
+
+
+  ## Trust Notes
+
+
+  Status: unverified · ⚠ operator-self. Listing does not constitute endorsement.
+brand: Wappkit API
+images: []
+updated_at: 2026-11-21 03:19
